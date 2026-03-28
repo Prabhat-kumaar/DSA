@@ -1,19 +1,24 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        
-        int n = nums.length;
-        int count = 0;
+        return atMost(nums, goal) - atMost(nums, goal - 1);
+    }
 
-        for (int i=0; i<n; i++) {
-            int sum = 0;
-            for (int j=i; j<n; j++) {
-                sum += nums[j];
+    public int atMost(int[] nums, int goal) {
+        if (goal < 0) return 0;
 
-                if (sum == goal) {
-                    count++;
-                }
+        int l = 0, sum = 0, count = 0;
+
+        for (int r = 0; r < nums.length; r++) {
+            sum += nums[r];
+
+            while (sum > goal) {
+                sum -= nums[l];
+                l++;
             }
+
+            count += (r - l + 1);
         }
+
         return count;
     }
 }

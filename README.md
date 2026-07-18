@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Prabhat-kumaar/DSA/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Prabhat-kumaar/DSA/tree/master/0392-is-subsequence) |
 ## Dynamic Programming

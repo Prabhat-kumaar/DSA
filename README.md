@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Prabhat-kumaar/DSA/tree/master/0392-is-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/Prabhat-kumaar/DSA/tree/master/0551-student-attendance-record-i) |
+| [0657-robot-return-to-origin](https://github.com/Prabhat-kumaar/DSA/tree/master/0657-robot-return-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Prabhat-kumaar/DSA/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->

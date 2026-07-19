@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Prabhat-kumaar/DSA/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/Prabhat-kumaar/DSA/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/Prabhat-kumaar/DSA/tree/master/0657-robot-return-to-origin) |
 ## Dynamic Programming

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Prabhat-kumaar/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Prabhat-kumaar/DSA/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prabhat-kumaar/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prabhat-kumaar/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Prabhat-kumaar/DSA/tree/master/0657-robot-return-to-origin) |
+## Hash Table
+|  |
+| ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prabhat-kumaar/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+## Counting
+|  |
+| ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prabhat-kumaar/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->

@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Prabhat-kumaar/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Prabhat-kumaar/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0796-rotate-string) |
+| [0859-buddy-strings](https://github.com/Prabhat-kumaar/DSA/tree/master/0859-buddy-strings) |
 | [0925-long-pressed-name](https://github.com/Prabhat-kumaar/DSA/tree/master/0925-long-pressed-name) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prabhat-kumaar/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prabhat-kumaar/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0859-buddy-strings](https://github.com/Prabhat-kumaar/DSA/tree/master/0859-buddy-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prabhat-kumaar/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |

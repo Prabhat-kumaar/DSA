@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Prabhat-kumaar/DSA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Prabhat-kumaar/DSA/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Prabhat-kumaar/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Prabhat-kumaar/DSA/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/Prabhat-kumaar/DSA/tree/master/0859-buddy-strings) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/Prabhat-kumaar/DSA/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/Prabhat-kumaar/DSA/tree/master/0859-buddy-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prabhat-kumaar/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting

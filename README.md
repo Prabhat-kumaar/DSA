@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prabhat-kumaar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0665-non-decreasing-array](https://github.com/Prabhat-kumaar/DSA/tree/master/0665-non-decreasing-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prabhat-kumaar/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prabhat-kumaar/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prabhat-kumaar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Prabhat-kumaar/DSA/tree/master/0392-is-subsequence) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prabhat-kumaar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Prabhat-kumaar/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prabhat-kumaar/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Prefix Sum

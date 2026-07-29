@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Prabhat-kumaar/DSA/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Prabhat-kumaar/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/Prabhat-kumaar/DSA/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Prabhat-kumaar/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Prabhat-kumaar/DSA/tree/master/0551-student-attendance-record-i) |

@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Prabhat-kumaar/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prabhat-kumaar/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1816-truncate-sentence](https://github.com/Prabhat-kumaar/DSA/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Prabhat-kumaar/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Prabhat-kumaar/DSA/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/Prabhat-kumaar/DSA/tree/master/0859-buddy-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prabhat-kumaar/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Prabhat-kumaar/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
 | ------- |

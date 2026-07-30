@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prabhat-kumaar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0665-non-decreasing-array](https://github.com/Prabhat-kumaar/DSA/tree/master/0665-non-decreasing-array) |
+| [0748-shortest-completing-word](https://github.com/Prabhat-kumaar/DSA/tree/master/0748-shortest-completing-word) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prabhat-kumaar/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prabhat-kumaar/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prabhat-kumaar/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Prabhat-kumaar/DSA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Prabhat-kumaar/DSA/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/Prabhat-kumaar/DSA/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Prabhat-kumaar/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Prabhat-kumaar/DSA/tree/master/0844-backspace-string-compare) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0748-shortest-completing-word](https://github.com/Prabhat-kumaar/DSA/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Prabhat-kumaar/DSA/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/Prabhat-kumaar/DSA/tree/master/0859-buddy-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prabhat-kumaar/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |

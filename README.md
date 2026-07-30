@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/0680-valid-palindrome-ii) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/Prabhat-kumaar/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prabhat-kumaar/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1859-sorting-the-sentence](https://github.com/Prabhat-kumaar/DSA/tree/master/1859-sorting-the-sentence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Prabhat-kumaar/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+## Math
+|  |
+| ------- |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/Prabhat-kumaar/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
+## Backtracking
+|  |
+| ------- |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/Prabhat-kumaar/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 <!---LeetCode Topics End-->

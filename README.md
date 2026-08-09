@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Prabhat-kumaar/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/Prabhat-kumaar/DSA/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Prabhat-kumaar/DSA/tree/master/0925-long-pressed-name) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prabhat-kumaar/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Prabhat-kumaar/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prabhat-kumaar/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Prabhat-kumaar/DSA/tree/master/1528-shuffle-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Prabhat-kumaar/DSA/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prabhat-kumaar/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
 | ------- |

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/Prabhat-kumaar/DSA/tree/master/0665-non-decreasing-array) |
 | [0748-shortest-completing-word](https://github.com/Prabhat-kumaar/DSA/tree/master/0748-shortest-completing-word) |
 | [0890-find-and-replace-pattern](https://github.com/Prabhat-kumaar/DSA/tree/master/0890-find-and-replace-pattern) |
+| [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prabhat-kumaar/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prabhat-kumaar/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prabhat-kumaar/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Prabhat-kumaar/DSA/tree/master/0392-is-subsequence) |
+| [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prabhat-kumaar/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## String Matching
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Prabhat-kumaar/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 ## Sorting
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Prabhat-kumaar/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prabhat-kumaar/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
@@ -143,4 +147,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prabhat-kumaar/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Prabhat-kumaar/DSA/tree/master/0890-find-and-replace-pattern) |
 | [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prabhat-kumaar/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prabhat-kumaar/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prabhat-kumaar/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prabhat-kumaar/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1528-shuffle-string](https://github.com/Prabhat-kumaar/DSA/tree/master/1528-shuffle-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Prabhat-kumaar/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Prabhat-kumaar/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prabhat-kumaar/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prabhat-kumaar/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Prabhat-kumaar/DSA/tree/master/1544-make-the-string-great) |
 ## Greedy
 |  |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prabhat-kumaar/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->

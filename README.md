@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prabhat-kumaar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0665-non-decreasing-array](https://github.com/Prabhat-kumaar/DSA/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/Prabhat-kumaar/DSA/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Prabhat-kumaar/DSA/tree/master/0735-asteroid-collision) |
 | [0748-shortest-completing-word](https://github.com/Prabhat-kumaar/DSA/tree/master/0748-shortest-completing-word) |
 | [0890-find-and-replace-pattern](https://github.com/Prabhat-kumaar/DSA/tree/master/0890-find-and-replace-pattern) |
 | [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Prabhat-kumaar/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Prabhat-kumaar/DSA/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Prabhat-kumaar/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Prabhat-kumaar/DSA/tree/master/0844-backspace-string-compare) |
 ## Hash Table
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Prabhat-kumaar/DSA/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Prabhat-kumaar/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Prabhat-kumaar/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prabhat-kumaar/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prabhat-kumaar/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |

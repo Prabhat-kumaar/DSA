@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Prabhat-kumaar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prabhat-kumaar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/Prabhat-kumaar/DSA/tree/master/0496-next-greater-element-i) |
 | [0665-non-decreasing-array](https://github.com/Prabhat-kumaar/DSA/tree/master/0665-non-decreasing-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Prabhat-kumaar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Prabhat-kumaar/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Prabhat-kumaar/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Prabhat-kumaar/DSA/tree/master/0735-asteroid-collision) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Prabhat-kumaar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Prabhat-kumaar/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prabhat-kumaar/DSA/tree/master/3345-smallest-divisible-digit-product-i) |

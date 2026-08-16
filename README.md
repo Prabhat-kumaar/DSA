@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Prabhat-kumaar/DSA/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prabhat-kumaar/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Prabhat-kumaar/DSA/tree/master/1816-truncate-sentence) |
+| [2029-stone-game-ix](https://github.com/Prabhat-kumaar/DSA/tree/master/2029-stone-game-ix) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Prabhat-kumaar/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Prabhat-kumaar/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prabhat-kumaar/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2029-stone-game-ix](https://github.com/Prabhat-kumaar/DSA/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/0680-valid-palindrome-ii) |
+| [2029-stone-game-ix](https://github.com/Prabhat-kumaar/DSA/tree/master/2029-stone-game-ix) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Prabhat-kumaar/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Sliding Window
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prabhat-kumaar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Prabhat-kumaar/DSA/tree/master/2029-stone-game-ix) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Prabhat-kumaar/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prabhat-kumaar/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
@@ -171,14 +175,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Prabhat-kumaar/DSA/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Prabhat-kumaar/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Prabhat-kumaar/DSA/tree/master/2029-stone-game-ix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -189,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Prabhat-kumaar/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prabhat-kumaar/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Prabhat-kumaar/DSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->

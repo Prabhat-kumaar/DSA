@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Prabhat-kumaar/DSA/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/Prabhat-kumaar/DSA/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prabhat-kumaar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prabhat-kumaar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/Prabhat-kumaar/DSA/tree/master/0496-next-greater-element-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prabhat-kumaar/DSA/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Prabhat-kumaar/DSA/tree/master/0392-is-subsequence) |
 | [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prabhat-kumaar/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prabhat-kumaar/DSA/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2029-stone-game-ix](https://github.com/Prabhat-kumaar/DSA/tree/master/2029-stone-game-ix) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Prabhat-kumaar/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |

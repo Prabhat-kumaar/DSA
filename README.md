@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Prabhat-kumaar/DSA/tree/master/0039-combination-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prabhat-kumaar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prabhat-kumaar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/Prabhat-kumaar/DSA/tree/master/0496-next-greater-element-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Prabhat-kumaar/DSA/tree/master/0039-combination-sum) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Prabhat-kumaar/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Enumeration
 |  |

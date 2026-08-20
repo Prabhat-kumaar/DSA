@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Prabhat-kumaar/DSA/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Prabhat-kumaar/DSA/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prabhat-kumaar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prabhat-kumaar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/Prabhat-kumaar/DSA/tree/master/0496-next-greater-element-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/Prabhat-kumaar/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Prabhat-kumaar/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Prabhat-kumaar/DSA/tree/master/0735-asteroid-collision) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Prabhat-kumaar/DSA/tree/master/2029-stone-game-ix) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->

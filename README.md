@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prabhat-kumaar/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Prabhat-kumaar/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Prabhat-kumaar/DSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Prabhat-kumaar/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Prabhat-kumaar/DSA/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prabhat-kumaar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Prabhat-kumaar/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Prabhat-kumaar/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prabhat-kumaar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Prabhat-kumaar/DSA/tree/master/0344-reverse-string) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prabhat-kumaar/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Prabhat-kumaar/DSA/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Prabhat-kumaar/DSA/tree/master/0392-is-subsequence) |
 | [1140-stone-game-ii](https://github.com/Prabhat-kumaar/DSA/tree/master/1140-stone-game-ii) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prabhat-kumaar/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prabhat-kumaar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Prabhat-kumaar/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Prabhat-kumaar/DSA/tree/master/0682-baseball-game) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prabhat-kumaar/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Prabhat-kumaar/DSA/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prabhat-kumaar/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
